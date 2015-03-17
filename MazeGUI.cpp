@@ -1,3 +1,11 @@
+/* 
+	Lab 08
+	Katherine (Katie) Brown
+	Joe Bivens
+	
+	https://github.com/kebrown46/lab08
+*/
+
 #include "MazeGUI.h"
 #include "Matrix.h"
 
